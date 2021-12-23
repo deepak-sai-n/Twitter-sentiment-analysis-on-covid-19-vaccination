@@ -12,11 +12,11 @@ from datetime import datetime, date, timedelta
 # Data collection using twitter api
 
 # Authenticate to Twitter
-
-access_token="1450533290822103040-kQbtEHprUX0tAUTEB8jUboLFJBMwXn"
-access_token_secret="InRSqCrHRfoqPZA6ni4z1iqGBixO8NbPMMGO8jbeH9ICh"
-consumer_key="T39BTH4dIS5MMNqsO6LLESDmf"
-consumer_secret="nNmvqBjrLw8exwpftNd11tGxLZjY73VCxKEer3HhZJG7sUebig"
+# access keys removed
+access_token=""
+access_token_secret=""
+consumer_key=""
+consumer_secret=""
 
 
 #API access
